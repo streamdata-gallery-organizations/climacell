@@ -6,11 +6,11 @@ description: ClimaCell provides the most accurate weather data in the world by i
   with data from traditional sensors. With 90% correlation to ground truth (vs. 50%
   using radar), it&rsquo;s the best you can get for your enterprise.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28707-climacell.jpg
-x-kinRank: "0"
+x-kinRank: "9"
 x-alexaRank: "617213"
 tags: ClimaCell
-created: "2018-06-06"
-modified: "2018-06-06"
+created: "2018-06-19"
+modified: "2018-06-19"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/climacell/master/_listings/climacell/apis.md
 specificationVersion: "0.14"
 apis:
@@ -508,6 +508,8 @@ x-common:
   url: sales@climacell.co
 - type: x-faq
   url: https://developer.climacell.co/FAQ
+- type: x-github
+  url: https://github.com/climacell
 - type: x-pricing
   url: https://developer.climacell.co/
 - type: x-privacy-policy
