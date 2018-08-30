@@ -4,7 +4,7 @@ url: climacell.streamdata.gallery
 tag: ClimaCell
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: climacell
 github_branch: master
 collections:
